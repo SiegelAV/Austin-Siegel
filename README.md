@@ -39,7 +39,7 @@ I'm an IT Systems Analyst with a strong background in technology and leadership.
 ---
 
 ## 🛠️ Projects
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 ### <a href="https://github.com/yourusername/project1" target="_blank">Smart Expenses App</a>
 **Description:** Brief explanation of what the project does.  
