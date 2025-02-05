@@ -30,7 +30,7 @@
                     <h3>Smart Expenses App</h3>
                 </a>
                 <p>Brief description of Project 1.</p>
-                <img src="/images/SmartExpensesApp.png" alt="Project 1 Screenshot">
+                <img src="images/SmartExpensesApp.png" alt="Project 1 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-2" target="_blank">
