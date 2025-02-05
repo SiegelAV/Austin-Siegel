@@ -26,7 +26,7 @@
         <h2>Projects</h2>
         <div class="projects-grid">
             <div class="project">
-                <a href="https://github.com/your-repo-1" target="_blank">
+                <a href="/images/SmartExpensesApp.png">
                     <h3>Project 1</h3>
                 </a>
                 <p>Brief description of Project 1.</p>
