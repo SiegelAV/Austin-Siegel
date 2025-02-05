@@ -33,7 +33,7 @@
                 <img src="" alt="Project 1 Screenshot">
             </div>
             <div class="project">
-                <a href="(https://github.com/SiegelAV/SQL-COVID-Database" target="_blank">
+                <a href="https://github.com/SiegelAV/SQL-COVID-Database" target="_blank">
                     <h3>SQL COVID Database</h3>
                 </a>
                 <p>Brief description of Project 2.</p>
