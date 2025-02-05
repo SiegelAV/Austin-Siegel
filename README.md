@@ -26,11 +26,11 @@
         <h2>Projects</h2>
         <div class="projects-grid">
             <div class="project">
-                <a href="https://github.com/SiegelAV/Smart-Expenses-App">
+                <a href="">
                     <h3>Smart Expenses App</h3>
                 </a>
                 <p>Brief description of Project 1.</p>
-                <img src="images/SmartExpensesApp.png" alt="Project 1 Screenshot">
+                <img src="" alt="Project 1 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-2" target="_blank">
