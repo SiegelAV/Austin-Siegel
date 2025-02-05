@@ -39,9 +39,9 @@ I'm an IT Systems Analyst with a strong background in technology and leadership.
 ---
 
 ## 🛠️ Projects
-### [Project 1: Portfolio Website](#)
-- Developed a personal website using GitHub Pages and Markdown
-- Showcases skills, education, work experience, and projects
+### Financial Literacy Site & Expense Tracker(https://github.com/SiegelAV/Smart-Expenses-App)
+- Created ASP.NET MVC web applications using C#
+- This site tracks the users expenses using CRUD operations. The site also lets the user register for a number of financial literacy courses. 
 
 ### [Project 2: IT Support Automation Script](#)
 - Automated troubleshooting steps for common IT support issues
