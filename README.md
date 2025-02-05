@@ -8,8 +8,6 @@
 </head>
 <body>
     <header>
-        <h1>Austin Siegel</h1>
-        <p>Web Developer | Frontend & Backend Enthusiast</p>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
