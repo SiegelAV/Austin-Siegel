@@ -39,17 +39,34 @@ I'm an IT Systems Analyst with a strong background in technology and leadership.
 ---
 
 ## 🛠️ Projects
-### [Smart Expenses App](/SiegelAV/Smart-Expenses-App)
-- Created ASP.NET MVC web applications using C#
-- This site tracks the users expenses using CRUD operations. The site also lets the user register for a number of financial literacy courses. 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-### [Project 2: IT Support Automation Script](#)
-- Automated troubleshooting steps for common IT support issues
-- Written in Python to improve efficiency in the workplace
+### <a href="https://github.com/yourusername/project1" target="_blank">Smart Expenses App</a>
+**Description:** Brief explanation of what the project does.  
+**Technologies Used:** Python, Flask, AWS  
 
-### [Project 3: Cloud Deployment Strategy](#)
-- Designed and implemented a cloud migration strategy for a fulfillment center
-- Utilized AWS services to optimize infrastructure
+### <a href="https://github.com/yourusername/project2" target="_blank">Project 2</a>
+**Description:** Brief overview of the project.  
+**Technologies Used:** JavaScript, React, Firebase  
+
+### <a href="https://github.com/yourusername/project3" target="_blank">Project 3</a>
+**Description:** Key functionalities and purpose.  
+**Technologies Used:** HTML, CSS, JavaScript  
+
+### <a href="https://github.com/yourusername/project4" target="_blank">Project 4</a>
+**Description:** Overview of the project.  
+**Technologies Used:** Python, Django, PostgreSQL  
+
+### <a href="https://github.com/yourusername/project5" target="_blank">Project 5</a>
+**Description:** Brief explanation of the problem solved.  
+**Technologies Used:** Node.js, Express, MongoDB  
+
+### <a href="https://github.com/yourusername/project6" target="_blank">Project 6</a>
+**Description:** Key features and functionalities.  
+**Technologies Used:** C#, .NET, SQL Server  
+
+</div>
+
 
 ---
 
