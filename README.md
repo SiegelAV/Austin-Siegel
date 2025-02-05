@@ -39,7 +39,7 @@ I'm an IT Systems Analyst with a strong background in technology and leadership.
 ---
 
 ## 🛠️ Projects
-### Financial Literacy Site & Expense Tracker(https://github.com/SiegelAV/Smart-Expenses-App)
+### [Financial Literacy Site & Expense Tracker](https://github.com/SiegelAV/Smart-Expenses-App)
 - Created ASP.NET MVC web applications using C#
 - This site tracks the users expenses using CRUD operations. The site also lets the user register for a number of financial literacy courses. 
 
