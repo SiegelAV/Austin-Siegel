@@ -31,6 +31,7 @@
                 <img src="images/javascript.png" alt="Javascript" style="width: 10%">
                 <img src="images/python.png" alt="Python" style="width: 10%">
                 <img src="images/csharp.png" alt="C-Sharp" style="width: 10%">
+                <img src="images/sql.png" alt="SQL" style="width: 10%">
             </div>
     </section>
 
