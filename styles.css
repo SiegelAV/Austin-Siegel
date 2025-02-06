@@ -11,11 +11,11 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    
     text-align: center;
     padding: 20px 0;
     position: fixed;
-    background-image: url('../images/html.png');
+    background-image: url('images/html.png');
     background-size: cover;
     background-position: center;
 }
