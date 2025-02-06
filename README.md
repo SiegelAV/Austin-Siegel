@@ -11,6 +11,7 @@
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -20,6 +21,21 @@
     <section id="about">
         <h2>About Me</h2>
         <p>Hi! I'm Austin, a passionate Web Developer with experience in frontend and backend development. I love creating dynamic, user-friendly websites and applications.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+    <div class="row">
+        <div class="column">
+            <img src="images/html.png" alt="HTML" style="width:100%">
+        </div>
+        <div class="column">
+            <img src="images/css.png" alt="CSS" style="width:100%">
+        </div>
+        <div class="column">
+            <img src="images/javascript.png" alt="Javascript" style="width:100%">
+        </div>
+    </div>
     </section>
 
     <section id="projects">
