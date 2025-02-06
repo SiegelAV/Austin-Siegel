@@ -27,13 +27,13 @@
         <h2>Skills</h2>
     <div class="row">
         <div class="column">
-            <img src="images/html.png" alt="HTML" style="width:100%">
+            <img src="images/html.png" alt="HTML" style="width:10%">
         </div>
         <div class="column">
-            <img src="images/css.png" alt="CSS" style="width:100%">
+            <img src="images/css.png" alt="CSS" style="width:10%">
         </div>
         <div class="column">
-            <img src="images/javascript.png" alt="Javascript" style="width:100%">
+            <img src="images/javascript.png" alt="Javascript" style="width:10%">
         </div>
     </div>
     </section>
