@@ -40,7 +40,6 @@ section {
     max-width: 900px;  /* Set a max width to ensure proper layout */
     margin: auto;
     background-image: url('images/html.png');
-    background-color: white;
     margin-top: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
