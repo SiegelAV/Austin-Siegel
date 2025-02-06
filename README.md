@@ -29,7 +29,7 @@
                 <tr>
                     <td><img src="images/html.png" alt="HTML" style="width: 10%"></td>
                     <td><img src="images/css.png" alt="CSS" style="width: 10%"></td>
-                    <td><img src="images/Javascript.png" alt="Javascript" style="width: 10%"></td>
+                    <td><img src="images/javascript.png" alt="Javascript" style="width: 10%"></td>
                 </tr>
             </table>
     </section>
