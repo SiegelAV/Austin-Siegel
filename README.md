@@ -6,9 +6,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-        <style>
-            background-image: url('images/html.png');
-        </style>
     <header>
         <nav>
             <ul>
