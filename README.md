@@ -25,7 +25,7 @@
     <section id="skills">
         <h2>Skills</h2>
             <div class="image-container">
-                <<img src="images/html.png" alt="HTML" style="width: 10%">>
+                <img src="images/html.png" alt="HTML" style="width: 10%">
                 <img src="images/css.png" alt="CSS" style="width: 10%">
                 <img src="images/javascript.png" alt="Javascript" style="width: 10%">
                 <img src="images/python.png" alt="Python" style="width: 10%">
