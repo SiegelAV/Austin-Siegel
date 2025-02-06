@@ -6,10 +6,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
         <style>
             background-image: url('images/html.png');
         </style>
+    <header>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
