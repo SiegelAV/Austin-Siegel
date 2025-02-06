@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding top: 60px;
     background-image: url('../images/html.png');
+    background-color: red;  /* If red appears, the image is missing */
     background-size: cover;
     background-position: center;
 }
