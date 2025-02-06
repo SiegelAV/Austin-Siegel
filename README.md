@@ -25,17 +25,13 @@
 
     <section id="skills">
         <h2>Skills</h2>
-    <div class="row">
-        <div class="column">
-            <img src="images/html.png" alt="HTML" style="width:10%">
-        </div>
-        <div class="column">
-            <img src="images/css.png" alt="CSS" style="width:10%">
-        </div>
-        <div class="column">
-            <img src="images/javascript.png" alt="Javascript" style="width:10%">
-        </div>
-    </div>
+            <table>
+                <tr>
+                    <td><img src="images/html.png" alt="HTML"></td>
+                    <td><img src="images/css.png" alt="CSS"></td>
+                    <td><img src="images/Javascript.png" alt="Javascript"></td>
+                </tr>
+            </table?
     </section>
 
     <section id="projects">
