@@ -31,7 +31,7 @@
                     <td><img src="images/css.png" alt="CSS"></td>
                     <td><img src="images/Javascript.png" alt="Javascript"></td>
                 </tr>
-            </table?
+            </table>
     </section>
 
     <section id="projects">
