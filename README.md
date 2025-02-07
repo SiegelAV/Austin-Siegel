@@ -25,12 +25,12 @@
     <section id="skills">
         <h2>Skills</h2>
         <div class="image-container">
-            <img src="images/html.png" alt="HTML">
-            <img src="images/css.png" alt="CSS">
-            <img src="images/javascript.png" alt="Javascript">
-            <img src="images/python.png" alt="Python">
-            <img src="images/csharp.png" alt="C-Sharp">
-            <img src="images/sql.png" alt="SQL">
+            <img src="images/html.png" alt="HTML" width="10%">
+            <img src="images/css.png" alt="CSS" width="10%">
+            <img src="images/javascript.png" alt="Javascript" width="10%">
+            <img src="images/python.png" alt="Python" width="10%">
+            <img src="images/csharp.png" alt="C-Sharp" width="10%">
+            <img src="images/sql.png" alt="SQL" width="10%">
         </div>
     </section>
 
