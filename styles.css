@@ -104,23 +104,23 @@ section {
 }
 
 .project:nth-child(2) {
-    background-image: url('images/project2.jpg');
+    background-image: url('images/html.png');
 }
 
 .project:nth-child(3) {
-    background-image: url('images/project3.jpg');
+    background-image: url('images/html.png');
 }
 
 .project:nth-child(4) {
-    background-image: url('images/project4.jpg');
+    background-image: url('images/html.png');
 }
 
 .project:nth-child(5) {
-    background-image: url('images/project5.jpg');
+    background-image: url('images/html.png');
 }
 
 .project:nth-child(6) {
-    background-image: url('images/project6.jpg');
+    background-image: url('images/html.png');
 }
 
 /* Improves text visibility */
