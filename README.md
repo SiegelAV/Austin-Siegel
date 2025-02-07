@@ -10,7 +10,7 @@
 
         <video autoplay muted loop id="myVideo">
             <source src="movie.mp4" type="video/mp4">
-            <source src="https://www.w3schools.com/html/movie.mp4" type="video/ogg">
+            <source src="https://v.ftcdn.net/01/34/45/58/700_F_134455865_AwTNybsGH6VP3wRGfQQNomkQI9xN8PP9_ST.mp4" type="video/ogg">
             Your browser does not support the video tag.
         </video>
 
