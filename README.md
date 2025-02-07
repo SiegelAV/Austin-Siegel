@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Austin Siegel | Web Developer</title>
     <link rel="stylesheet" href="style.css">
-    <background-color: red>
 </head>
 <body>
     <header>
@@ -25,20 +24,19 @@
 
     <section id="skills">
         <h2>Skills</h2>
-            <div class="image-container">
-                <img src="images/html.png" alt="HTML" style="width: 10%">
-                <img src="images/css.png" alt="CSS" style="width: 10%">
-                <img src="images/javascript.png" alt="Javascript" style="width: 10%">
-                <img src="images/python.png" alt="Python" style="width: 10%">
-                <img src="images/csharp.png" alt="C-Sharp" style="width: 10%">
-                <img src="images/sql.png" alt="SQL" style="width: 10%">
-            </div>
+        <div class="image-container">
+            <img src="images/html.png" alt="HTML">
+            <img src="images/css.png" alt="CSS">
+            <img src="images/javascript.png" alt="Javascript">
+            <img src="images/python.png" alt="Python">
+            <img src="images/csharp.png" alt="C-Sharp">
+            <img src="images/sql.png" alt="SQL">
+        </div>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
-        <div class="row">
-            <div class="columns">
+        <div class="projects-container">
             <div class="project">
                 <a href="https://github.com/SiegelAV/Smart-Expenses-App">
                     <h3>Smart Expenses App</h3>
@@ -60,8 +58,6 @@
                 <p>Brief description of Project 3.</p>
                 <img src="https://via.placeholder.com/150" alt="Project 3 Screenshot">
             </div>
-            </div>
-            <div class="columns">
             <div class="project">
                 <a href="https://github.com/your-repo-4" target="_blank">
                     <h3>Project 4</h3>
@@ -83,8 +79,6 @@
                 <p>Brief description of Project 6.</p>
                 <img src="https://via.placeholder.com/150" alt="Project 6 Screenshot">
             </div>
-            </div>
-            
         </div>
     </section>
 
