@@ -37,7 +37,8 @@
 
     <section id="projects">
         <h2>Projects</h2>
-        <div class="projects-grid">
+        <div class="row">
+            <div class="columns">
             <div class="project">
                 <a href="https://github.com/SiegelAV/Smart-Expenses-App">
                     <h3>Smart Expenses App</h3>
@@ -59,6 +60,8 @@
                 <p>Brief description of Project 3.</p>
                 <img src="https://via.placeholder.com/150" alt="Project 3 Screenshot">
             </div>
+            </div>
+            <div class="columns">
             <div class="project">
                 <a href="https://github.com/your-repo-4" target="_blank">
                     <h3>Project 4</h3>
@@ -80,6 +83,8 @@
                 <p>Brief description of Project 6.</p>
                 <img src="https://via.placeholder.com/150" alt="Project 6 Screenshot">
             </div>
+            </div>
+            
         </div>
     </section>
 
