@@ -88,34 +88,47 @@ section {
 
 .project {
     width: calc(50% - 10px);
-    background-color: white;
-    background-image: url('images/html/png');
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
+    color: white; /* Ensures text is readable */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.project h3 {
-    margin: 0;
-    font-size: 1.2em;
+/* Assign unique background images */
+.project:nth-child(1) {
+    background-image: url('images/html.png');
 }
 
-.project a {
-    text-decoration: none;
-    color: #0073e6;
+.project:nth-child(2) {
+    background-image: url('images/project2.jpg');
 }
 
-.project a:hover {
-    text-decoration: underline;
+.project:nth-child(3) {
+    background-image: url('images/project3.jpg');
 }
 
-.project img {
-    width: 100%;
-    max-width: 150px;
-    height: auto;
-    margin-top: 10px;
+.project:nth-child(4) {
+    background-image: url('images/project4.jpg');
+}
+
+.project:nth-child(5) {
+    background-image: url('images/project5.jpg');
+}
+
+.project:nth-child(6) {
+    background-image: url('images/project6.jpg');
+}
+
+/* Improves text visibility */
+.project h3, .project p {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    padding: 10px;
     border-radius: 5px;
+    display: inline-block;
 }
 
 /* RESPONSIVE DESIGN */
