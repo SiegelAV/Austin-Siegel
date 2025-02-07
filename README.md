@@ -7,6 +7,13 @@
 </head>
 <body>
     <header>
+
+        <video autoplay muted loop id="myVideo">
+            <source src="movie.mp4" type="video/mp4">
+            <source src="https://www.w3schools.com/html/movie.mp4" type="video/ogg">
+            Your browser does not support the video tag.
+        </video>
+
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
