@@ -47,9 +47,8 @@
             <div class="project">
                 <a href="https://github.com/SiegelAV/Smart-Expenses-App">
                     <h3>Smart Expenses App</h3>
+                     <p class="description">This is a brief description of the project.</p>
                 </a>
-                <p>Brief description of Project 1.</p>
-                <img src="" alt="Project 1 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/SiegelAV/SQL-COVID-Database" target="_blank">
