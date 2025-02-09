@@ -53,37 +53,32 @@
             <div class="project">
                 <a href="https://github.com/SiegelAV/SQL-COVID-Database" target="_blank">
                     <h3>SQL COVID Database</h3>
+                    <p class="description">This is a brief description of the project.</p>
                 </a>
-                <p>Brief description of Project 2.</p>
-                <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-3" target="_blank">
+                <p class="description">This is a brief description of the project.</p>
                     <h3>Project 3</h3>
                 </a>
-                <p>Brief description of Project 3.</p>
-                <img src="https://via.placeholder.com/150" alt="Project 3 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-4" target="_blank">
                     <h3>Project 4</h3>
+                    <p class="description">This is a brief description of the project.</p>
                 </a>
-                <p>Brief description of Project 4.</p>
-                <img src="https://via.placeholder.com/150" alt="Project 4 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-5" target="_blank">
                     <h3>Project 5</h3>
+                    <p class="description">This is a brief description of the project.</p>
                 </a>
-                <p>Brief description of Project 5.</p>
-                <img src="https://via.placeholder.com/150" alt="Project 5 Screenshot">
             </div>
             <div class="project">
                 <a href="https://github.com/your-repo-6" target="_blank">
                     <h3>Project 6</h3>
+                    <p class="description">This is a brief description of the project.</p>
                 </a>
-                <p>Brief description of Project 6.</p>
-                <img src="https://via.placeholder.com/150" alt="Project 6 Screenshot">
             </div>
         </div>
     </section>
