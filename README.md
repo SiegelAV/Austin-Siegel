@@ -6,23 +6,25 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+<header>
 
-        <video autoplay muted loop id="myVideo">
-            <source src="movie.mp4" type="video/mp4">
-            <source src="https://v.ftcdn.net/01/34/45/58/700_F_134455865_AwTNybsGH6VP3wRGfQQNomkQI9xN8PP9_ST.mp4" type="video/ogg">
-            Your browser does not support the video tag.
-        </video>
+    <video autoplay muted loop id="myVideo">
+        <source src="movie.mp4" type="video/mp4">
+        <source src="https://v.ftcdn.net/01/34/45/58/700_F_134455865_AwTNybsGH6VP3wRGfQQNomkQI9xN8PP9_ST.mp4" type="video/ogg">
+        Your browser does not support the video tag.
+    </video>
 
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+    <h1 id="site-title">Austin Siegel | Web Developer</h1>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
 
     <section id="about">
         <h2>About Me</h2>
