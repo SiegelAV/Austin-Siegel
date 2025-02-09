@@ -96,6 +96,32 @@ section {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative; /* Needed for absolute positioning of the description */
+    overflow: hidden; /* Prevents content overflow */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.project:hover {
+    transform: scale(1.05); /* Expands the project slightly */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.project .description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.project:hover .description {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 /* Assign unique background images */
