@@ -90,7 +90,7 @@ function init() {
 
 // animate the loop
 function animate() {
-  requestAnimationFrame(aniamte);
+  requestAnimationFrame(animate);
   ctx.clearRect(0, 0, innerWidth, innerHeight);
 
   for (let i = 0; i < particlesArray.length; i++) {
