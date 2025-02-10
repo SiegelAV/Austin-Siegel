@@ -189,7 +189,15 @@ section {
 }
 
 /* RESPONSIVE DESIGN */
-@media (max-width: 768px) {
+
+@media (min-width: 768px) {
+    .projects-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* Ensures two columns */
+        gap: 20px;
+    }
+}
+/*@media (max-width: 768px) {
     .projects-container {
         flex-direction: column;
     }
@@ -198,7 +206,7 @@ section {
         width: 100%;
     }
 }
-
+*/
 footer {
     text-align: center;
     padding: 10px;
