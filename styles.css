@@ -17,15 +17,6 @@ header {
     padding: 20px 0;
 }
 
-canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-}
-
 #site-title {
     font-size: 24px;
     font-weight: bold;
@@ -35,6 +26,12 @@ canvas {
 }
 
 /* Video Background */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #canvas1 {
     position: fixed;
     top: 0; left: 0;
@@ -91,14 +88,12 @@ nav ul li a:hover {
 }
 section {
     padding: 20px;
-    width: 80%; /* Makes sections more narrow */
-    max-width: 1100px; /* Prevents them from becoming too wide */
-    margin: 80px auto 20px; /* Centers sections */
+    max-width: 900px;
+    margin: 80px auto 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     background-color: white;
 }
-
 
 .image-container {
     display: flex;
@@ -191,8 +186,7 @@ section {
 }
 
 /* RESPONSIVE DESIGN */
-
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .projects-container {
         flex-direction: column;
     }
@@ -209,3 +203,4 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
