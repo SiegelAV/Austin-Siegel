@@ -193,7 +193,6 @@ section {
 @media (max-width: 768px) {
     .projects-container {
         flex-direction: column;
-        grid-template-columns: repeat(2, 1fr); /* Ensures two columns */
     }
 
     .project {
