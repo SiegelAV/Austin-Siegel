@@ -5,6 +5,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <canvas id="canvas1"></canvas>
+    <script src="script.js"></script>
 <header>
 
     <video autoplay muted loop id="myVideo">
