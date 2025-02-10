@@ -8,8 +8,8 @@ let particlesArray;
 // Get Mouse Position
 
 let mouse = {
-  x: null;
-  y: null;
+  x: null,
+  y: null,
   radius: (canvas.height/80) * (canvas.width/80);
 }
 
