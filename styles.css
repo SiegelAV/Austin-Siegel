@@ -116,11 +116,11 @@ section {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 .project {
-    width: calc(48% - 10px);
+    width: calc(50% - 10px);
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
