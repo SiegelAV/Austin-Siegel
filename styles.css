@@ -114,24 +114,25 @@ section {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: space-between;
+    justify-content: space-between; /* Ensures even spacing */
+    align-items: stretch; /* Makes sure all projects are evenly aligned */
 }
 
 .project {
-    width: calc(50% - 10px);
+    width: calc(50% - 10px); /* Ensures two columns with spacing */
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
-    color: white; /* Ensures text is readable */
+    color: white;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    position: relative; /* Needed for absolute positioning of the description */
-    overflow: hidden; /* Prevents content overflow */
+    position: relative;
+    overflow: hidden;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    min-height: 200px; /* Ensures uniform height */
 }
-
 .project:hover {
     transform: scale(1.05); /* Expands the project slightly */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
