@@ -1,4 +1,4 @@
-const canvas = ReadME.getElementById("canvas1")
+const canvas = README.getElementById("canvas1")
 const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
