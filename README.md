@@ -13,6 +13,10 @@
         Your browser does not support the video tag.
     </video>
 
+    <div id="particles-js"></div>
+
+    <script src="particles.js"></script>
+
     <h1 id="site-title">Austin Siegel | Web Developer</h1>
 
     <nav>
