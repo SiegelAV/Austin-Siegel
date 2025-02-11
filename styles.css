@@ -1,5 +1,4 @@
 
-
 body {
     font-family: Arial, sans-serif;
     width: 100%;
@@ -18,11 +17,27 @@ header {
 }
 
 #site-title {
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
     margin-bottom: 10px;
     color: white;
     position: center;
+}
+
+#projects {
+    color: white;
+}
+
+#skills {
+    color: white;
+}
+
+#about {
+    color: white;
+}
+
+#contact {
+    color: white;
 }
 
 /* Video Background */
@@ -37,7 +52,7 @@ header {
     top: 0; left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(#ffc38c, #ff9b40);
+    background: radial-gradient(#1b1b1a, #161038);
     z-index: -5;
 }
 
@@ -92,7 +107,7 @@ section {
     margin: 80px auto 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    background-color: white;
+    background-color: rgba(204, 195, 195, 0.116);
 }
 
 .image-container {
@@ -104,6 +119,12 @@ section {
 .image-container img {
     width: 10%;
     max-width: 60px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+    transform: scale(1.10); /* Expands the project slightly */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* PROJECTS SECTION */
@@ -116,6 +137,7 @@ section {
 
 .project {
     width: calc(50% - 10px);
+    height: 175px;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
@@ -154,7 +176,7 @@ section {
 
 /* Assign unique background images */
 .project:nth-child(1) {
-    background-image: url('images/html.png');
+    background-image: url('images/SmartExpensesCoverImage.png');
 }
 
 .project:nth-child(2) {
