@@ -1,3 +1,4 @@
+html { scroll-behavior: smooth; }
 
 body {
     font-family: Arial, sans-serif;
@@ -90,11 +91,11 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 1.2em;
     font-weight: bold;
     text-decoration: none;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Increases text visibility */
+    text-shadow: 2px 2px 4px rgb(255, 248, 248); /* Increases text visibility */
     transition: color 0.3s ease-in-out;
 }
 
@@ -107,7 +108,9 @@ section {
     margin: 80px auto 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    background-color: rgba(204, 195, 195, 0.116);
+    background-color: rgba(36, 33, 33, 0.705);
+    outline-style: solid;
+    outline-color: orange;
 }
 
 .image-container {
@@ -117,14 +120,35 @@ section {
 }
 
 .image-container img {
-    width: 10%;
+    width: 30%;
     max-width: 60px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
 .image-container img:hover {
-    transform: scale(1.10); /* Expands the project slightly */
+    transform: scale(1.20); /* Expands the project slightly */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    background-color: rgba(173, 216, 230, 0.2); /* Light blue background with slight transparency */
+    width: fit-content; /* Adjusts the container size to fit content */
+}
+
+.skill img {
+    display: block;
+}
+
+.skill span {
+    font-size: 1.0em;
+    font-weight: normal;
+    color: lightblue;
 }
 
 /* PROJECTS SECTION */
@@ -176,27 +200,27 @@ section {
 
 /* Assign unique background images */
 .project:nth-child(1) {
-    background-image: url('images/SmartExpensesCoverImage.png');
+    background-image: url('images/projectBackground.png');
 }
 
 .project:nth-child(2) {
-    background-image: url('images/html.png');
+    background-image: url('images/projectBackground.png');
 }
 
 .project:nth-child(3) {
-    background-image: url('images/html.png');
+    background-image: url('images/projectBackground.png');
 }
 
 .project:nth-child(4) {
-    background-image: url('images/html.png');
+    background-image: url('images/projectBackground.png');
 }
 
 .project:nth-child(5) {
-    background-image: url('images/html.png');
+    background-image: url('images/projectBackground.png');
 }
 
 .project:nth-child(6) {
-    background-image: url('images/html.png');
+    background-image: url('images/projectBackground.png');
 }
 
 /* Improves text visibility */
